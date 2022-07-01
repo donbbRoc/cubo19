@@ -1,0 +1,5 @@
+000100100630             PGM
+000200100630             DCLF       FILE(AFILE2)
+000300100630             RCVF
+000400100630             CALL       PGM(ACALL1)
+000500100630             ENDPGM
